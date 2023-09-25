@@ -1,4 +1,4 @@
-# algoritmos2-TP-labo
+# algoritmos y estructuras de datos II - TP-labo
 Compilar el archivos tests.cpp para correr el programa
 
 ## Cartas enlazadas
